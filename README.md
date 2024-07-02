@@ -1,2 +1,2 @@
-my name is louis but ive always been called buddy
-i think computers are the most world historically significant technology today
+Hi!
+I am a recent alumnus of Whitman College, a liberal arts school in the Northwest of the US. I am interested in GNU/Linux and Unix-like operating systems, network technologies including hardware and software, mainframes, and retro computers of all kinds.
